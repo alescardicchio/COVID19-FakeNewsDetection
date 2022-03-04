@@ -1,5 +1,0 @@
-https://towardsdatascience.com/automatically-detect-covid-19-misinformation-f7ceca1dc1c7
-https://ssc.ca/sites/default/files/imce/second_prize.pdf
-
-https://github.com/rockash/Fake-news-Detection
-https://github.com/parthpatwa/covid19-fake-news-detection
